@@ -1,0 +1,2 @@
+cd C:\Users\juanp\OneDrive\Escritorio
+python yarvis2.py
